@@ -90,7 +90,7 @@ const EmailVerification = () => {
       <div className="w-full max-w-[420px] bg-white rounded-lg shadow-sm p-8">
         {/* Header */}
         <h1 className="text-[#1E2329] text-2xl font-medium text-center mb-6">
-          2FA
+          E-posta Doğrulaması
         </h1>
 
         {/* Verification Form */}
